@@ -1,7 +1,7 @@
 ## Hi there 👋 Welcome to my GitHUB
 I'm Federico Macchi, a Software Engineer with a strong UI focus; passionate about cooking, cocktails and (aero)space, I love coding, creating devices, and taking part in hackathons.  
 
-I'm currently finishing my Master Degree in HCID - Human-Computer Interaction and Design offered by EIT Digital, at the University of Trento (Trento, IT) and Aalto University (Helsinki, Finland); my thesis dissertation is scheduled for Wed the 21st of Oct, 2020.  
+I'm currently working as an Aerospace Software Engineer and Integration Specialist at TXT Group, Milan, doing projects for Leonardo Helicopters in the Training & Simulation Area.
 My Master Thesis is about automating the Visual Testing of Advanced Map-based Interfaces, used within the context of Flight Simulators.
 
 My research interests are mainly related to UIs and Software Engineering/Architecture; I would like to learn more about advanced emergent User Interfaces such as Augmented/Mixed/Virtual Reality especially applied to the fields of defence and aerospace.
