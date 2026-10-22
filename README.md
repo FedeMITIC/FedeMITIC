@@ -25,11 +25,6 @@ However, if you want to have an idea about my way of coding things, you can chec
 
 Additionally, not included in my Github, I used Java for both my Bachelor and Master thesis.
 
-#### Currently working on
-I'm currently finishing my Master Thesis, writing tests using Java, OpenCV, TesseractOCR and Selenium APIs + HTML/CSS/JS to create a website which automatically parses and displays the results of the tests.  
-
-I'm learning Spring Boot by creating a clone of Google Keep (repo here: https://github.com/FedeMITIC/TODOsAPI)
-
 #### Open Source and other contributions
 Other things I contributed to:
 - Homebrewlab (described here in Italian (Google Translate is your friend) https://hopadvisor.it/2017/08/20/homebrewlab-verso-un-software-nuovo-per-pianificare-gli-esperimenti-birrari/), current website: https://homebrewlab.cloudno.de/; I contributed to this open source app for almost two years, from the initial phases. In particular, I was the leader of the back-end team, that built the backend infrastructure, originally based on the Google Cloud Platform (with a Linux Machine). It featured:
